@@ -24,24 +24,20 @@ Project Overview:<br>
     
 ![image](https://user-images.githubusercontent.com/72664379/185337802-fa503489-ec3d-49e2-81cb-bcb5f8dee962.png)
 <br>
-Pie chart showing rating category of apps. High means rating >3.5 and low is <=3.5.
+Pie chart showing rating category of apps. High means rating >3.5 and low is <=3.5.<br><br>
 
-<br>
-![image](https://user-images.githubusercontent.com/72664379/185339291-a35796bf-fa21-4e02-9e4c-cbc6f04cdbcf.png)
+![image](https://user-images.githubusercontent.com/72664379/185341526-56668404-8731-42fe-ab75-6b794ca6581d.png)
 <br>
 This plot shows the significance of all the independent features in predicting the satisfaction of a passenger for decison tree classifier model. <br><br>
 
-<br>
 ![image](https://user-images.githubusercontent.com/72664379/185339685-015a45dd-75aa-45a3-88e3-037a064d0327.png)
 <br>
 This plot shows the significance of all the independent features in predicting the satisfaction of a passenger for random forest classifier model. <br><br>
 
-<br>
 ![image](https://user-images.githubusercontent.com/72664379/185339943-ab684b1b-1da2-4d1a-bb47-590cee50c8ed.png)
 <br>
 This plot shows the significance of all the independent features in predicting the satisfaction of a passenger for gradient boosting classifier model. <br><br>
 
-<br>
 ![image](https://user-images.githubusercontent.com/72664379/185340283-9fd49a28-2082-4d82-9aec-6ee2d634a9f4.png)
 <br>
 This plot shows the significance of all the independent features in predicting the satisfaction of a passenger for ADA boosting classifier model. <br><br>
@@ -72,5 +68,16 @@ Accuracies achieved:
       <li>Testing: <b>89%</b></li>
     </ul>
   </li>
-  
 </ul>
+
+<h3>Conclusions:</h3>
+<ul>
+<li>From the features vs importance plot, we can conclude that the 'Reviews' column has the greatest significance in predicting the rating of an app.</li>
+<li>Along with 'Reviews', 'Category' ,'Size' and 'Installs' also play a much efficient role in the predictions.</li>
+<li>'Content Rating' and 'Type' has the least significance that shows that the age group and money doesn't matters much for the rating of and app.</li>
+</ul>
+
+
+
+
+
