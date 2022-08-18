@@ -28,19 +28,19 @@ Pie chart showing rating category of apps. High means rating >3.5 and low is <=3
 
 ![image](https://user-images.githubusercontent.com/72664379/185341526-56668404-8731-42fe-ab75-6b794ca6581d.png)
 <br>
-This plot shows the significance of all the independent features in predicting the satisfaction of a passenger for decison tree classifier model. <br><br>
+This plot shows the significance of all the independent features in predicting the app rating for decison tree classifier model. <br><br>
 
 ![image](https://user-images.githubusercontent.com/72664379/185339685-015a45dd-75aa-45a3-88e3-037a064d0327.png)
 <br>
-This plot shows the significance of all the independent features in predicting the satisfaction of a passenger for random forest classifier model. <br><br>
+This plot shows the significance of all the independent features in predicting the app rating for random forest classifier model. <br><br>
 
 ![image](https://user-images.githubusercontent.com/72664379/185339943-ab684b1b-1da2-4d1a-bb47-590cee50c8ed.png)
 <br>
-This plot shows the significance of all the independent features in predicting the satisfaction of a passenger for gradient boosting classifier model. <br><br>
+This plot shows the significance of all the independent features in predicting the app rating for gradient boosting classifier model. <br><br>
 
 ![image](https://user-images.githubusercontent.com/72664379/185340283-9fd49a28-2082-4d82-9aec-6ee2d634a9f4.png)
 <br>
-This plot shows the significance of all the independent features in predicting the satisfaction of a passenger for ADA boosting classifier model. <br><br>
+This plot shows the significance of all the independent features in predicting the app rating for ADA boosting classifier model. <br><br>
 <br>
 Accuracies achieved:
 <ul>
