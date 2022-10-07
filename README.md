@@ -18,8 +18,6 @@ Project Overview:<br>
     </ul></li>
   <li>Plot for feature importance for each model is shown.</li>
 </ul>
-<br>
- <br>    
     <br>
     
 ![image](https://user-images.githubusercontent.com/72664379/185337802-fa503489-ec3d-49e2-81cb-bcb5f8dee962.png)
@@ -40,7 +38,7 @@ This plot shows the significance of all the independent features in predicting t
 
 ![image](https://user-images.githubusercontent.com/72664379/185340283-9fd49a28-2082-4d82-9aec-6ee2d634a9f4.png)
 <br>
-This plot shows the significance of all the independent features in predicting the app rating for ADA boosting classifier model. <br><br>
+This plot shows the significance of all the independent features in predicting the app rating for ADA boosting classifier model. <br>
 <br>
 Accuracies achieved:
 <ul>
